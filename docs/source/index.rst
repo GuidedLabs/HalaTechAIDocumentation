@@ -25,3 +25,4 @@ Documentation Structure
    
    overview
    getting-started
+   workflows

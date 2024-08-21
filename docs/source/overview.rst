@@ -1,5 +1,6 @@
+*********
 Overview
-============
+*********
 
 .. image:: ../images/overview.png
    :width: 600
