@@ -49,7 +49,12 @@ How to run
 
      cd docs
      make html
+6. **Development Mode**
 
-6. **View the Documentation**
+   In dev mode run the following to enable automatic updates::
+
+     sphinx-autobuild ./source/ _build/html 
+
+7. **View the Documentation**
 
    Open the generated HTML files in your browser. The main file is usually located at ``_build/html/index.html``.
